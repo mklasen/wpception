@@ -1,0 +1,7 @@
+.DS_Store
+.env
+users/home
+admin/plugins/premia-admin/node_modules/
+admin/plugins/premia-admin/vendor/
+proxy/letsencrypt/
+users/home/*

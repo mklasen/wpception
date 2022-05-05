@@ -1,0 +1,21 @@
+{
+    "name": "mklasen/premia-admin",
+    "authors": [
+        {
+            "name": "Marinus Klasen",
+            "email": "marinus@mklasen.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "classmap": [
+            "classes"
+        ]
+    },
+    "require-dev": {
+        "wp-coding-standards/wpcs": "^2.3",
+        "tgmpa/tgm-plugin-activation": "dev-develop",
+        "squizlabs/php_codesniffer": "3.*"
+    }
+}
